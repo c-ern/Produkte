@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Product:</b>
+  <%= @origin.product_id %>
+</p>
+
+<p>
+  <b>Brand:</b>
+  <%= @origin.brand_id %>
+</p>
+
+
+<%= link_to 'Edit', edit_origin_path(@origin) %> |
+<%= link_to 'Back', origins_path %>

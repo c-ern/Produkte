@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @supermarket.name %>
+</p>
+
+<p>
+  <b>Wikipedia url:</b>
+  <%= @supermarket.wikipedia_url %>
+</p>
+
+
+<%= link_to 'Edit', edit_supermarket_path(@supermarket) %> |
+<%= link_to 'Back', supermarkets_path %>

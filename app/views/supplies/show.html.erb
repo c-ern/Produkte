@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Supermarket:</b>
+  <%= @supply.supermarket_id %>
+</p>
+
+<p>
+  <b>Origin:</b>
+  <%= @supply.origin_id %>
+</p>
+
+
+<%= link_to 'Edit', edit_supply_path(@supply) %> |
+<%= link_to 'Back', supplies_path %>
