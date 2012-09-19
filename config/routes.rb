@@ -1,7 +1,7 @@
 Produkte::Application.routes.draw do
-  resources :supplies
-
   resources :origins
+
+  resources :supplies
 
   resources :products
 

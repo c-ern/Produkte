@@ -1,0 +1,215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prod",
+				"product"
+			],
+			[
+				"facili",
+				"facility_companies_first_id"
+			],
+			[
+				"comp",
+				"com_panies"
+			],
+			[
+				"wiki",
+				"wikipedia_url"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"padding-",
+				"padding-right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 360.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Sites/wlw2/app/models/product.rb",
+		"/F/_SYNCB/__Musik sortiert/Bela B/Bela B. - Bingo/00-bela_b.-bingo-de-2006-mst.nfo",
+		"/C/Sites/wlw2/stackoverflow2.txt",
+		"/C/Sites/wlw2/app/views/products/_form.html.erb",
+		"/C/Sites/wlw2/app/models/facility.rb",
+		"/C/Sites/wlw2/stackoverflow3.rb",
+		"/C/Sites/wlw2/app/views/facilities/_form.html.erb",
+		"/C/Sites/wlw2/app/assets/stylesheets/application.css",
+		"/C/Sites/wlw2/app/assets/stylesheets/gmaps4rails.css",
+		"/C/Sites/wlw2/app/models/manufacture.rb",
+		"/C/Sites/Lieferung/app/views/products/_form.html.erb",
+		"/C/Sites/wlw2/app/models/affiliation.rb",
+		"/C/Sites/wlw2/app/models/company.rb",
+		"/C/Sites/Lieferung/app/models/product.rb",
+		"/C/Sites/wlw2/app/controllers/facilities_controller.rb",
+		"/C/Sites/wlw2/stackoverflow.txt",
+		"/C/Sites/wlw2/app/views/facilities/index.html.erb",
+		"/C/Users/Chris/Desktop/test.html",
+		"/C/Users/Chris/Desktop/test.css",
+		"/C/Sites/wlw2/app/views/facilities/show.html.erb",
+		"/C/Sites/wlw2/app/views/facilities/_gmaps_infowindow.html.erb",
+		"/C/RailsInstaller/Git/etc/gitconfig",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Sites/wlw2/app/views/layouts/application.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"supplies",
+			"delete"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Sites/wlw2_sub.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
